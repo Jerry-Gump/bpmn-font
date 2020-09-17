@@ -1,5 +1,7 @@
 # bpmn-font
 
+Add transaction-subprocess-collapsed event-subprocess-collapsed adhoc-subprocess-collapsed by gongzengli at 2020-9-17
+
 A BPMN 2.0 icon font. Use it to model BPMN diagrams in your Word, VIM or other text editor.
 
 ![Font Preview](./resources/symbols.png)
