@@ -105,4 +105,7 @@
 .bpmn-icon-data-output:before { content: '\e867'; } /* '' */
 .bpmn-icon-hand-tool:before { content: '\e868'; } /* '' */
 .bpmn-icon-group:before { content: '\e869'; } /* '' */
+.bpmn-icon-transaction-subprocess-collapsed:before { content: '\e86f'; } /* '' */
+.bpmn-icon-event-subprocess-collapsed:before { content: '\e870'; } /* '' */
+.bpmn-icon-adhoc-subprocess-collapsed:before { content: '\e871'; } /* '' */
 .bpmn-icon-transaction:before { content: '\e8c4'; } /* '' */
