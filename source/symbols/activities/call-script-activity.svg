@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   viewBox="0 0 2000 2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="call-script-activity.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4345"
+     inkscape:cx="455.23187"
+     inkscape:cy="979.28654"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4008"
+       empspacing="20"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jörg Dotzki</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>BPMN</rdf:li>
+            <rdf:li>bpmn-io</rdf:li>
+            <rdf:li>bpmn.io</rdf:li>
+            <rdf:li>Font</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.63784)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:220;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 461.33789,-737.63867 c -230.50606,0 -421.33789,186.40896 -421.33789,416 l 0,748 c 0,229.59104 190.83183,416 421.33789,416 l 1077.32421,0 c 230.5061,0 421.3379,-186.40896 421.3379,-416 l 0,-748 c 0,-229.59104 -190.8318,-416 -421.3379,-416 l -1077.32421,0 z m 0,220 1077.32421,0 c 114.4556,0 201.3379,86.543 201.3379,196 l 0,748 c 0,109.45699 -86.8823,196 -201.3379,196 l -1077.32421,0 C 346.88231,622.36133 260,535.81832 260,426.36133 l 0,-748 c 0,-109.457 86.88231,-196 201.33789,-196 z"
+       id="rect4187"
+       inkscape:connector-curvature="0" />
+    <g
+       style="display:inline;stroke-width:1.78105"
+       id="layer3"
+       transform="matrix(0.5535466,0,0,0.56949911,124.57108,-685.47686)">
+      <path
+         id="path7110"
+         d="m 759.41016,378 -8.26172,4.9043 -2.69922,1.60351 C 631.65776,453.72038 551.2844,517.18548 498.22852,579.16016 445.09916,641.22062 419.412,703.70808 418.68164,763.94727 c -1.45347,119.88048 86.97228,209.71859 165.42578,290.06643 78.39382,80.2866 148.32259,156.0018 154.9043,218.664 3.35465,31.9387 -4.19483,64.0189 -39.01953,107.9434 -34.67819,43.7398 -97.61667,96.1282 -198.24024,154.7851 L 353.19336,1622 h 916.85354 l 10.8496,-6.3125 0.012,-0.01 c 106.6354,-62.1616 178.4767,-119.591 224.2539,-177.33 45.9137,-57.9111 64.5936,-118.4995 58.6191,-175.3789 -11.8376,-112.702 -103.6452,-194.8266 -180.8281,-273.8731 -77.2428,-79.10787 -139.8524,-153.72081 -139,-224.02343 0.4304,-35.49105 14.0718,-75.08441 57.2188,-125.48438 43.0731,-50.31388 115.6956,-109.18115 227.0312,-175.1582 v -0.002 L 1674.0449,378 Z m 25.84179,92.91797 h 564.64255 c -49.7292,37.07832 -89.0484,72.89757 -119.3066,108.24219 -53.1293,62.06045 -78.8165,124.54791 -79.5469,184.78711 -1.4534,119.88149 86.9766,209.71905 165.4297,290.06643 78.3934,80.2861 148.3166,156.0006 154.8984,218.664 3.3547,31.9388 -4.1929,64.0189 -39.0175,107.9434 -33.3963,42.1228 -93.4555,92.3857 -187.7891,148.4609 H 678.47266 c 39.27012,-30.6267 70.46826,-60.6354 94.33007,-90.7324 45.91374,-57.9111 64.59346,-118.4995 58.61915,-175.3789 C 819.58425,1150.2687 727.77664,1068.1442 650.59375,989.09766 573.35098,909.9898 510.74334,835.37687 511.5957,765.07422 512.02602,729.58325 525.66558,689.98982 568.8125,639.58984 610.43918,590.96566 680.08673,534.2435 785.25195,470.91797 Z M 653.13086,629.39258 v 42.91992 h 441.39844 v -42.91992 z m -16.40234,231.17578 v 42.91797 h 456.38478 v -42.91797 z m 206.79492,231.16994 v 42.9179 h 441.98826 v -42.9179 z m 63.19726,231.1738 v 42.918 h 457.9863 v -42.918 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:124.674;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
