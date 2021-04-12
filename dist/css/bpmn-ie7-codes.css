@@ -50,7 +50,7 @@
 .bpmn-icon-text-annotation { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe830;&nbsp;'); }
 .bpmn-icon-bpmn-io { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe831;&nbsp;'); }
 .bpmn-icon-gateway-complex { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe832;&nbsp;'); }
-.bpmn-icon-gateway-eventbased { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe833;&nbsp;'); }
+.bpmn-icon-gateway-eventbased-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe833;&nbsp;'); }
 .bpmn-icon-gateway-none { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe834;&nbsp;'); }
 .bpmn-icon-gateway-or { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe835;&nbsp;'); }
 .bpmn-icon-end-event-terminate { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe836;&nbsp;'); }
@@ -105,7 +105,16 @@
 .bpmn-icon-data-output { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe867;&nbsp;'); }
 .bpmn-icon-hand-tool { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe868;&nbsp;'); }
 .bpmn-icon-group { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe869;&nbsp;'); }
+.bpmn-icon-call-business-rule-activity { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86a;&nbsp;'); }
+.bpmn-icon-call-manual-activity { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86b;&nbsp;'); }
+.bpmn-icon-call-script-activity { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86c;&nbsp;'); }
+.bpmn-icon-call-user-activity { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86d;&nbsp;'); }
 .bpmn-icon-transaction-subprocess-collapsed { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86f;&nbsp;'); }
 .bpmn-icon-event-subprocess-collapsed { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe870;&nbsp;'); }
 .bpmn-icon-adhoc-subprocess-collapsed { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe871;&nbsp;'); }
+.bpmn-icon-gateway-eventbased-start { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe876;&nbsp;'); }
+.bpmn-icon-gateway-parallel-start { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe877;&nbsp;'); }
+.bpmn-icon-gateway-eventbased { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe878;&nbsp;'); }
 .bpmn-icon-transaction { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c4;&nbsp;'); }
+.bpmn-icon-association { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e6;&nbsp;'); }
+.bpmn-icon-message-flow { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e7;&nbsp;'); }
